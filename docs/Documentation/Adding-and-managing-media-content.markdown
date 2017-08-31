@@ -10,13 +10,20 @@ To add and delete media folders, click **Media** in the dashboard.
 
 ![](../Upload/screenshots_675/manage_media_675.png)
 
-Browse to a media image file and view the details. The properties of a media file are:
+Selecting an image file will allow you to view the following properties:
+
 
 * **Screenshot**. A thumbnail preview of the image content.
-* **Size** and **Added on**. Properties of the media file.
-* **Embed**. The URL of the media file, which you can copy to the HTML view of the rich-text editor
-in order to embed the media image into content.
-* **Name**. The name of the media file.
+* **Last modified**. How long since the media was modified and by whome.
+* **Title**. The tile of the media file
+* **Filename**. The name of the media file.
+* **Mime Type**. The file type of the media file.
+* **Status**. The published status of the media file.
+* **Dimensions**. Pixel width and height of the media file.
+
+![](../Upload/screenshots_675/MediaSelectProperties.png)
+
+
 
 ![](../Upload/screenshots/edit_media_1.png)
 
