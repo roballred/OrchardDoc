@@ -13,19 +13,29 @@ To add and delete media folders, click **Media** in the dashboard.
 Selecting an image file will allow you to view the following properties:
 
 
-* **Screenshot**. A thumbnail preview of the image content.
-* **Last modified**. How long since the media was modified and by whome.
-* **Title**. The tile of the media file
-* **Filename**. The name of the media file.
-* **Mime Type**. The file type of the media file.
-* **Status**. The published status of the media file.
-* **Dimensions**. Pixel width and height of the media file.
-
-![](../Upload/screenshots_675/MediaSelectProperties.png)
+* **Screenshot** A thumbnail preview of the image content.
+* **Last modified** How long since the media was modified and by whome.
+* **Title** The tile of the media file
+* **Filename** The name of the media file.
+* **Mime Type** The file type of the media file.
+* **Status** The published status of the media file.
+* **Dimensions** Pixel width and height of the media file.
 
 
 
-![](../Upload/screenshots/edit_media_1.png)
+To edit media file properties select the media file and click on the edit button in the properties pane.
+
+![](../Upload/screenshots_675/MediaHighlightProperties.png)
+
+
+Editing a media file will allow you to change the following properties.
+* **Title** The tile of the media file
+* **Filename** The name of the media file.
+* **Caption** The caption describes the media in a general context.
+* **Alternate Text**. The html alt attribute provides alternative information for an image if a user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+* **Owner** The username of the current owner of the media, which defaults to the username of the image creator.
+
+![](../Upload/screenshots_675/MediaEditImage.png)
 
 To manage the subfolders for your media folder, click **Media** again on the dashboard.
 Then click a folder to display the **Manage Folder** screen. 
